@@ -36,9 +36,9 @@
       "from": "buffer-shims@>=1.0.0 <2.0.0"
     },
     "busboy": {
-      "version": "0.2.11",
-      "resolved": "https://registry.npmjs.org/busboy/-/busboy-0.2.11.tgz",
-      "from": "busboy@0.2.11"
+      "version": "0.2.14",
+      "resolved": "https://registry.npmjs.org/busboy/-/busboy-0.2.14.tgz",
+      "from": "busboy@0.2.14"
     },
     "colors": {
       "version": "1.0.3",
@@ -61,9 +61,9 @@
       "from": "cycle@>=1.0.0 <1.1.0"
     },
     "dicer": {
-      "version": "0.2.3",
-      "resolved": "https://registry.npmjs.org/dicer/-/dicer-0.2.3.tgz",
-      "from": "dicer@0.2.3"
+      "version": "0.2.5",
+      "resolved": "https://registry.npmjs.org/dicer/-/dicer-0.2.5.tgz",
+      "from": "dicer@0.2.5"
     },
     "ee-first": {
       "version": "1.1.1",
@@ -86,9 +86,9 @@
       "from": "fs.realpath@>=1.0.0 <2.0.0"
     },
     "fstream": {
-      "version": "1.0.11",
-      "resolved": "https://registry.npmjs.org/fstream/-/fstream-1.0.11.tgz",
-      "from": "fstream@>=1.0.2 <2.0.0"
+      "version": "1.0.10",
+      "resolved": "https://registry.npmjs.org/fstream/-/fstream-1.0.10.tgz",
+      "from": "fstream@1.0.10"
     },
     "glob": {
       "version": "7.1.2",
@@ -141,9 +141,9 @@
       "from": "mkdirp@>=0.5.0 >=0.0.0 <1.0.0"
     },
     "moment": {
-      "version": "2.9.0",
-      "resolved": "https://registry.npmjs.org/moment/-/moment-2.9.0.tgz",
-      "from": "moment@2.9.0"
+      "version": "2.18.1",
+      "resolved": "https://registry.npmjs.org/moment/-/moment-2.18.1.tgz",
+      "from": "moment@2.18.1"
     },
     "mongodb": {
       "version": "2.2.16",
@@ -161,6 +161,11 @@
           "from": "readable-stream@2.1.5"
         }
       }
+    },
+    "mongodb-backup": {
+      "version": "1.6.9",
+      "resolved": "https://registry.npmjs.org/mongodb-backup/-/mongodb-backup-1.6.9.tgz",
+      "from": "mongodb-backup@1.6.9"
     },
     "mongodb-core": {
       "version": "2.1.2",
