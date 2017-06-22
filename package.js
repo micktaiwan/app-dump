@@ -20,7 +20,7 @@ Package.onUse(function(api) {
   // SERVER
   api.use([
     'coffeescript',
-    'iron:router@1.0.7' // for REST endpoint only
+    'iron:router' // for REST endpoint only
   ], ['server']);
 
   api.addFiles([
@@ -32,7 +32,7 @@ Package.onUse(function(api) {
   api.use([
     'coffeescript',
     'templating',
-    'less@2.5.1',
+    'less@2.7.9',
     'reactive-var'
   ], ['client']);
 
