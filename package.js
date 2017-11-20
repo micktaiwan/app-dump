@@ -20,7 +20,8 @@ Package.onUse(function(api) {
   // SERVER
   api.use([
     'coffeescript',
-    'iron:router' // for REST endpoint only
+    'iron:router', // for REST endpoint only
+    'accounts-password'
   ], ['server']);
 
   api.addFiles([
