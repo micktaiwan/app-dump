@@ -213,14 +213,14 @@
       "from": "resolve-from@https://registry.npmjs.org/resolve-from/-/resolve-from-2.0.0.tgz"
     },
     "rimraf": {
-      "version": "2.6.1",
-      "resolved": "https://registry.npmjs.org/rimraf/-/rimraf-2.6.1.tgz",
-      "from": "rimraf@https://registry.npmjs.org/rimraf/-/rimraf-2.6.1.tgz"
+      "version": "2.6.2",
+      "resolved": "https://registry.npmjs.org/rimraf/-/rimraf-2.6.2.tgz",
+      "from": "rimraf@https://registry.npmjs.org/rimraf/-/rimraf-2.6.2.tgz"
     },
     "semver": {
-      "version": "5.3.0",
-      "resolved": "https://registry.npmjs.org/semver/-/semver-5.3.0.tgz",
-      "from": "semver@https://registry.npmjs.org/semver/-/semver-5.3.0.tgz"
+      "version": "5.4.1",
+      "resolved": "https://registry.npmjs.org/semver/-/semver-5.4.1.tgz",
+      "from": "semver@https://registry.npmjs.org/semver/-/semver-5.4.1.tgz"
     },
     "setheaders": {
       "version": "0.1.7",
