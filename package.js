@@ -28,7 +28,6 @@ Package.onUse(function(api) {
     'app-dump-server.coffee'
   ], ['server']);
 
-
   // CLIENT
   api.use([
     'coffeescript',
