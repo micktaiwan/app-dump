@@ -1,6 +1,6 @@
 Package.describe({
   name: 'hitchcott:app-dump',
-  version: '0.4.3',
+  version: '0.4.4',
   summary: 'In-app Backup and Restore for your Mongo Database',
   git: 'https://github.com/hitchcott/app-dump',
   documentation: 'README.md'
@@ -21,7 +21,8 @@ Package.onUse(function(api) {
   api.use([
     'coffeescript',
     'iron:router', // for REST endpoint only
-    'accounts-password'
+    'accounts-password',
+    'check'
   ], ['server']);
 
   api.addFiles([
