@@ -7,7 +7,7 @@ Package.describe({
 });
 
 Npm.depends({
-  "moment": "2.18.1",
+  "moment": "2.24.0",
   "busboy": "0.2.14",
   "mongodb-backup": "1.6.9",
   "mongodb-restore": "1.6.2"
